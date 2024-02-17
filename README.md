@@ -7,7 +7,7 @@ A guide to integrating multiple donation collection methods into your Streamlit 
 [![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
 
 ## Live Website
-[Link to Website]("https://donation.streamlit.app/")
+[Link to Website](https://donation.streamlit.app/)
 
 
 ## 🤝 Connect with Me
