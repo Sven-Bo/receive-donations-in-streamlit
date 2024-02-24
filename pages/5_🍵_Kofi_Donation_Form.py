@@ -12,7 +12,7 @@ st.set_page_config(
 with st.echo():
     import streamlit.components.v1 as components
 
-    st.components.v1.iframe(
+    components.iframe(
         src="https://ko-fi.com/codingisfun/?hidefeed=true&widget=true&embed=true&preview=true",
         width=None,
         height=800,
