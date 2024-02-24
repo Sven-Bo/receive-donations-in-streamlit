@@ -3,8 +3,8 @@
 A guide to integrating multiple donation collection methods into your Streamlit app. This project demonstrates how to incorporate donation buttons and forms from popular platforms like BuyMeACoffee and Ko-Fi, allowing you to receive support directly through your app.
 
 
-## Video Tutorial (Coming soon!)
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+## Video Tutorial
+[![YouTube Video](https://img.youtube.com/vi/Ek82r3EEMs4/0.jpg)](https://youtu.be/Ek82r3EEMs4)
 
 ## Live Website
 [Link to Website](https://donation.streamlit.app/)
